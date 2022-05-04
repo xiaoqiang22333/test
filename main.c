@@ -1,6 +1,6 @@
 #include <stdio>
-
-int main()
+waewe
+int maweain()
 {
 	printaawfdsaf
 	prinwerawetf("hellsdafsadfo,wodsfarld");
