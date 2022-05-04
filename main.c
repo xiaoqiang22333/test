@@ -1,8 +1,11 @@
 #include <stdio>
-waewe
+waewefadfasdf
 int maweain()
 {
 	printaawfdsaf
 	prinwerawetf("hellsdafsadfo,wodsfarld");
-	"hellsdafsadfo,wodsfarld");
+	"hellsdafsadafsdsadfo,wodsfarld");
+	safsd
+		afasd
+		asfdasd
 }
