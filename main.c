@@ -1,8 +1,10 @@
 #include <stdio>
 waewe
 int maweain()
-{
+ger
+wEFE
 	printaawfdsaf
-	prinwerawetf("hellsdafsadfo,wodsfarld");
-	"hellsdafsadfo,wodsfarld");
+	prinwerawgersetf("hellsdafsadfo,wodsfarld");
+	"hellsdafsadfo,wodssafwefarld");
+asdfasdf
 }
