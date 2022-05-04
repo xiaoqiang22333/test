@@ -2,6 +2,7 @@
 
 int main()
 {
-	printfdsaf
-	printf("hellsdafsadfo,wodsfarld");
+	printaawfdsaf
+	prinwerawetf("hellsdafsadfo,wodsfarld");
+	"hellsdafsadfo,wodsfarld");
 }
